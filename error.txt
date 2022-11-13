@@ -1,0 +1,86 @@
+2022-11-13 22:56:05
+[Failure instance: Traceback: <class 'MySQLdb._exceptions.OperationalError'>: (1049, "Unknown database 'test'")
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/threading.py:1009:_bootstrap_inner
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/threading.py:946:run
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/_threads/_threadworker.py:47:work
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/_threads/_team.py:182:doWork
+--- <exception caught here> ---
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/threadpool.py:244:inContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/threadpool.py:260:<lambda>
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/context.py:117:callWithContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/context.py:82:callWithContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:440:_runInteraction
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:34:__init__
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:71:reconnect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:410:connect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/MySQLdb/__init__.py:130:Connect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/MySQLdb/connections.py:185:__init__
+]2022-11-13 22:56:05
+[Failure instance: Traceback: <class 'MySQLdb._exceptions.OperationalError'>: (1049, "Unknown database 'test'")
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/threading.py:1009:_bootstrap_inner
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/threading.py:946:run
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/_threads/_threadworker.py:47:work
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/_threads/_team.py:182:doWork
+--- <exception caught here> ---
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/threadpool.py:244:inContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/threadpool.py:260:<lambda>
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/context.py:117:callWithContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/context.py:82:callWithContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:440:_runInteraction
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:34:__init__
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:71:reconnect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:410:connect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/MySQLdb/__init__.py:130:Connect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/MySQLdb/connections.py:185:__init__
+]2022-11-13 22:56:05
+[Failure instance: Traceback: <class 'MySQLdb._exceptions.OperationalError'>: (1049, "Unknown database 'test'")
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/threading.py:1009:_bootstrap_inner
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/threading.py:946:run
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/_threads/_threadworker.py:47:work
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/_threads/_team.py:182:doWork
+--- <exception caught here> ---
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/threadpool.py:244:inContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/threadpool.py:260:<lambda>
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/context.py:117:callWithContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/context.py:82:callWithContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:440:_runInteraction
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:34:__init__
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:71:reconnect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:410:connect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/MySQLdb/__init__.py:130:Connect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/MySQLdb/connections.py:185:__init__
+]2022-11-13 22:56:06
+[Failure instance: Traceback: <class 'MySQLdb._exceptions.OperationalError'>: (1049, "Unknown database 'test'")
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/threading.py:1009:_bootstrap_inner
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/threading.py:946:run
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/_threads/_threadworker.py:47:work
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/_threads/_team.py:182:doWork
+--- <exception caught here> ---
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/threadpool.py:244:inContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/threadpool.py:260:<lambda>
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/context.py:117:callWithContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/context.py:82:callWithContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:440:_runInteraction
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:34:__init__
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:71:reconnect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:410:connect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/MySQLdb/__init__.py:130:Connect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/MySQLdb/connections.py:185:__init__
+]2022-11-13 22:56:06
+[Failure instance: Traceback: <class 'MySQLdb._exceptions.OperationalError'>: (1049, "Unknown database 'test'")
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/threading.py:1009:_bootstrap_inner
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/threading.py:946:run
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/_threads/_threadworker.py:47:work
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/_threads/_team.py:182:doWork
+--- <exception caught here> ---
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/threadpool.py:244:inContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/threadpool.py:260:<lambda>
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/context.py:117:callWithContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/python/context.py:82:callWithContext
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:440:_runInteraction
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:34:__init__
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:71:reconnect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/twisted/enterprise/adbapi.py:410:connect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/MySQLdb/__init__.py:130:Connect
+/Users/prufrock/opt/miniconda3/envs/scrapyPy3.10.4/lib/python3.10/site-packages/MySQLdb/connections.py:185:__init__
+]
