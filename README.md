@@ -7,6 +7,7 @@
 * 将爬取到的数据写入MySQL数据库进行保存
 
 ## 2. 注意
+* 项目保存了一份2022-11-13爬取的[csv数据](douban.csv)
 * 代理池搭建参考[jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)项目
 * 通过随机生成bid进行简易反爬策略参考自：[Scrapy中 CrawlSpider 使用](https://zhuanlan.zhihu.com/p/84554363)和[单机30分钟抓取豆瓣电影7万+数据](https://zhuanlan.zhihu.com/p/24035574)
 * 豆瓣读书页面中作者一栏常包含空格（` `）和换行符（`\n`），在写入数据库前需要注意
@@ -27,3 +28,4 @@
         comments_num INT
     );
     ```
+* 项目不足：没有处理如何爬取书籍对应的Top250排名
